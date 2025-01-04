@@ -1,0 +1,12 @@
+{
+  "name": "simply-static-1-1735571414",
+  "version": "1.0.0",
+  "description": "HEAD\r # 04012025\r =======\r # Site01\r  0c9ac376ac763e6bdb8ec86237ac2e1959e4a57e",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
